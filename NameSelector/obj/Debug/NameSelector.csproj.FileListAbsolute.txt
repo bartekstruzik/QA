@@ -1,0 +1,11 @@
+C:\Users\bstruzik\source\repos\NameSelector\NameSelector\bin\Debug\NameSelector.exe.config
+C:\Users\bstruzik\source\repos\NameSelector\NameSelector\bin\Debug\NameSelector.exe
+C:\Users\bstruzik\source\repos\NameSelector\NameSelector\bin\Debug\NameSelector.pdb
+C:\Users\bstruzik\source\repos\NameSelector\NameSelector\bin\Debug\WebDriver.dll
+C:\Users\bstruzik\source\repos\NameSelector\NameSelector\bin\Debug\WebDriver.Support.dll
+C:\Users\bstruzik\source\repos\NameSelector\NameSelector\bin\Debug\WebDriver.xml
+C:\Users\bstruzik\source\repos\NameSelector\NameSelector\bin\Debug\WebDriver.Support.xml
+C:\Users\bstruzik\source\repos\NameSelector\NameSelector\obj\Debug\NameSelector.csprojResolveAssemblyReference.cache
+C:\Users\bstruzik\source\repos\NameSelector\NameSelector\obj\Debug\NameSelector.csproj.CoreCompileInputs.cache
+C:\Users\bstruzik\source\repos\NameSelector\NameSelector\obj\Debug\NameSelector.exe
+C:\Users\bstruzik\source\repos\NameSelector\NameSelector\obj\Debug\NameSelector.pdb
