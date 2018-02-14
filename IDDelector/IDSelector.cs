@@ -19,7 +19,7 @@ class IDSelector
 
         Console.WriteLine(value: element.Text);
 
-        Thread.Sleep(6000);
+        Thread.Sleep(7000);
         driver.Quit();
     }
 
