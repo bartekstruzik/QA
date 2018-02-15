@@ -8,3 +8,4 @@ C:\Users\bstruzik\source\repos\NameSelector\IDDelector\bin\Debug\WebDriver.Suppo
 C:\Users\bstruzik\source\repos\NameSelector\IDDelector\obj\Debug\IDSelector.csproj.CoreCompileInputs.cache
 C:\Users\bstruzik\source\repos\NameSelector\IDDelector\obj\Debug\IDDelector.exe
 C:\Users\bstruzik\source\repos\NameSelector\IDDelector\obj\Debug\IDDelector.pdb
+C:\Users\bstruzik\source\repos\NameSelector\IDDelector\obj\Debug\IDSelector.csprojResolveAssemblyReference.cache

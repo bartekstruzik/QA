@@ -7,7 +7,9 @@ class IDSelector
 {
     static void Main()
     {
-        string url = "http://testing.todvachev.com/selectors/class-name/";
+        string url = "http://testing.todvachev.com/selectors/css-path/";
+        string xPath = "//*[@id=\"post-108\"]/div/figure/img";
+        string cssPath = "#post-108 > div > figure > img";
         string className = "testClass";
 
 
@@ -15,9 +17,29 @@ class IDSelector
 
         driver.Navigate().GoToUrl(url);
 
-        IWebElement element = driver.FindElement(By.ClassName(className));
+        IWebElement cssPathElement = driver.FindElement(By.CssSelector(cssPath));
+        IWebElement xPathElement = driver.FindElement(By.XPath(xPath));
 
-        Console.WriteLine(value: element.Text);
+        if (cssPathElement.Displayed)
+        {
+            GreenMessage("cssPath");
+        }
+        else
+        {
+            RedMessage("No cssPath");
+        }
+        if (xPathElement.Displayed)
+        {
+            GreenMessage("xPath");
+        }
+        else
+        {
+            RedMessage("No xPath");
+        }
+
+        //IWebElement element = driver.FindElement(By.ClassName(className));
+
+        //Console.WriteLine(value: element.Text);
 
         Thread.Sleep(7000);
         driver.Quit();
