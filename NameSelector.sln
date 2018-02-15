@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameSelector", "NameSelecto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDSelector", "IDDelector\IDSelector.csproj", "{D66D911E-7AFD-4869-8DA8-B2A253684892}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextInputField", "TextInputField\TextInputField\TextInputField.csproj", "{B74D4AC0-EDEC-451B-9339-859EE1AD01D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D66D911E-7AFD-4869-8DA8-B2A253684892}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D66D911E-7AFD-4869-8DA8-B2A253684892}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D66D911E-7AFD-4869-8DA8-B2A253684892}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B74D4AC0-EDEC-451B-9339-859EE1AD01D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B74D4AC0-EDEC-451B-9339-859EE1AD01D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B74D4AC0-EDEC-451B-9339-859EE1AD01D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B74D4AC0-EDEC-451B-9339-859EE1AD01D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
