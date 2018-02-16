@@ -14,8 +14,15 @@ class TextInputField
         string url = "http://testing.todvachev.com/special-elements/text-input-field/";
 
         driver.Navigate().GoToUrl(url);
-
         textBox = driver.FindElement(By.Name("username"));
+
+        textBox.SendKeys("First test");
+
+        Thread.Sleep(4000);
+
+        Console.WriteLine(textBox.GetAttribute("value"));
+
+        textBox.Clear();
 
         Thread.Sleep(3000);
         driver.Quit();

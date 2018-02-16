@@ -1,0 +1,11 @@
+C:\Users\bstruzik\source\repos\NameSelector\TextInputField\TextInputField\bin\Debug\TextInputField.exe.config
+C:\Users\bstruzik\source\repos\NameSelector\TextInputField\TextInputField\bin\Debug\TextInputField.exe
+C:\Users\bstruzik\source\repos\NameSelector\TextInputField\TextInputField\bin\Debug\TextInputField.pdb
+C:\Users\bstruzik\source\repos\NameSelector\TextInputField\TextInputField\bin\Debug\WebDriver.dll
+C:\Users\bstruzik\source\repos\NameSelector\TextInputField\TextInputField\bin\Debug\WebDriver.Support.dll
+C:\Users\bstruzik\source\repos\NameSelector\TextInputField\TextInputField\bin\Debug\WebDriver.xml
+C:\Users\bstruzik\source\repos\NameSelector\TextInputField\TextInputField\bin\Debug\WebDriver.Support.xml
+C:\Users\bstruzik\source\repos\NameSelector\TextInputField\TextInputField\obj\Debug\TextInputField.csprojResolveAssemblyReference.cache
+C:\Users\bstruzik\source\repos\NameSelector\TextInputField\TextInputField\obj\Debug\TextInputField.csproj.CoreCompileInputs.cache
+C:\Users\bstruzik\source\repos\NameSelector\TextInputField\TextInputField\obj\Debug\TextInputField.exe
+C:\Users\bstruzik\source\repos\NameSelector\TextInputField\TextInputField\obj\Debug\TextInputField.pdb
