@@ -1,0 +1,11 @@
+C:\Users\bstruzik\source\repos\NameSelector\CheckBox\CheckBox\bin\Debug\CheckBox.exe.config
+C:\Users\bstruzik\source\repos\NameSelector\CheckBox\CheckBox\bin\Debug\CheckBox.exe
+C:\Users\bstruzik\source\repos\NameSelector\CheckBox\CheckBox\bin\Debug\CheckBox.pdb
+C:\Users\bstruzik\source\repos\NameSelector\CheckBox\CheckBox\bin\Debug\WebDriver.dll
+C:\Users\bstruzik\source\repos\NameSelector\CheckBox\CheckBox\bin\Debug\WebDriver.Support.dll
+C:\Users\bstruzik\source\repos\NameSelector\CheckBox\CheckBox\bin\Debug\WebDriver.xml
+C:\Users\bstruzik\source\repos\NameSelector\CheckBox\CheckBox\bin\Debug\WebDriver.Support.xml
+C:\Users\bstruzik\source\repos\NameSelector\CheckBox\CheckBox\obj\Debug\CheckBox.csprojResolveAssemblyReference.cache
+C:\Users\bstruzik\source\repos\NameSelector\CheckBox\CheckBox\obj\Debug\CheckBox.csproj.CoreCompileInputs.cache
+C:\Users\bstruzik\source\repos\NameSelector\CheckBox\CheckBox\obj\Debug\CheckBox.exe
+C:\Users\bstruzik\source\repos\NameSelector\CheckBox\CheckBox\obj\Debug\CheckBox.pdb
